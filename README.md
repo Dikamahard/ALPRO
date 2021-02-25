@@ -1,2 +1,2 @@
 # ALPRO
-code of programming algorithm lecture for semester 1
+source code of programming algorithm lecture for semester 1
